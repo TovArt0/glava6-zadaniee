@@ -317,6 +317,7 @@ namespace Glava6_zadanie
             return max;
         }
 
+
         // Статический метод для нахождения наименьшего значения
         public static int FindMin(params int[] numbers)
         {
